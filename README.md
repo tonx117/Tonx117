@@ -1,12 +1,16 @@
-<div align="center">
+<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tonx117.tonx117&left_color=darkorchid&right_color=blueviolet"  />
 </div>
 
-###
+<h1>Hola, soy Tomás Valdez</h1> 
 
-<br clear="both">
+**Desarrollador Web Full Stack Junior**.
 
-<p align="left">Hello World!!</p>
+Antes de dedicarme al desarrollo web, trabajé como **Técnico Electromecánico**, lo que complementa mi enfoque técnico y creativo. Fuera del trabajo, disfruto de los **videojuegos**, y las **expresiones artísticas** como el dibujo y la música.
+
+🔗 [Mi LinkedIn](https://www.linkedin.com/in/tomas-valdez)
+🌐 [Mi Portfolio](https://tusitio.com)
+
 
 ###
 
@@ -23,7 +27,7 @@
   <a href="https://discord.com/users/titomaubowie" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
-  <a href="tomasvaldez02@gmail.com" target="_blank">
+  <a href="mailto:tomasvaldez02@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/tomas.valdez.14811" target="_blank">

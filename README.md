@@ -1,8 +1,6 @@
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tonx117.tonx117&left_color=darkorchid&right_color=blueviolet"  />
 </div>
-<br clear="both">
-
 # Hola, soy Tomás Valdez
 
 **Desarrollador Web Full Stack Junior**.

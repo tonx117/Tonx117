@@ -13,38 +13,21 @@ on:
 jobs:
   generate:
     permissions:
-      contents: write  # Permisos para que GitHub Actions pueda hacer push de los cambios
-
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: generate snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Tonx117
-          # Genera los archivos en una rama llamada "output". Esto evita que la rama principal se llene de archivos.
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg?palette=github-dark
 
-      # Muestra el estado de los archivos. Esto facilita la depuración si surge algún problema.
-      - run: git status
 
-      # Empuja los cambios a la rama master
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      - name: push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-
-      # Publica los archivos en la rama output
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          # La rama de salida que mencionamos anteriormente
           target_branch: output
           build_dir: dist
         env:

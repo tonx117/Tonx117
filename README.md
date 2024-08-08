@@ -76,8 +76,7 @@ Antes de dedicarme al desarrollo web, trabajé como **Técnico Electromecánico*
 
 ###
 
-<img src="https://raw.githubusercontent.com/tonx117/tonx117/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://github.com/Tonx117/Tonx117/blob/output/github-contribution-grid-snake.gif)
 ###
 
 <div align="center">

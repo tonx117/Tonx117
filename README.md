@@ -1,4 +1,4 @@
-<div align="center">
+<div align="rigth">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tonx117.tonx117&left_color=darkorchid&right_color=blueviolet"  />
 </div>
 
@@ -8,13 +8,9 @@
 
 # Hola, soy Tomás Valdez
 
-**Desarrollador Web Full Stack Junior** en formación en el Instituto Politécnico Formosa. Tengo experiencia en **MongoDB**, **MySQL**, y **Node.js**, y conocimientos en **HTML**, **CSS**, **JavaScript** y **React**.
+**Desarrollador Web Full Stack Junior**.
 
-Antes de dedicarme al desarrollo web, trabajé como **Técnico Electromecánico**, lo que complementa mi enfoque técnico y creativo. Fuera del trabajo, disfruto de las **artes marciales**, los **videojuegos**, y las **expresiones artísticas** como el dibujo y la música.
-
-💬 **¡Hablemos!** Si quieres conectar para proyectos, oportunidades laborales o simplemente charlar sobre tecnología y creatividad, no dudes en contactarme.
-
----
+Antes de dedicarme al desarrollo web, trabajé como **Técnico Electromecánico**, lo que complementa mi enfoque técnico y creativo. Fuera del trabajo, disfruto de los **videojuegos**, y las **expresiones artísticas** como el dibujo y la música.
 
 🔗 [Mi LinkedIn](https://www.linkedin.com/in/tomas-valdez)
 🌐 [Mi Portfolio](https://tusitio.com)

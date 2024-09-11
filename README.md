@@ -1,8 +1,8 @@
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tonx117.tonx117&left_color=darkorchid&right_color=blueviolet"  />
 </div>
-
-<h1 align="center">Hola, soy Tomás Valdez</h1> 
+<div align="center">
+<h1>Hola, soy Tomás Valdez</h1> 
 
 **Desarrollador Web Full Stack Junior**.
 
@@ -10,7 +10,7 @@ Antes de dedicarme al desarrollo web, trabajé como **Técnico Electromecánico*
 
 🔗 [Mi LinkedIn](https://www.linkedin.com/in/tomas-valdez)
 🌐 [Mi Portfolio](https://tusitio.com)
-
+</div>
 
 ###
 

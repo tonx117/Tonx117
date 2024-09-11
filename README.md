@@ -8,8 +8,7 @@
 
 Antes de dedicarme al desarrollo web, trabajé como **Técnico Electromecánico**, lo que complementa mi enfoque técnico y creativo. Fuera del trabajo, disfruto de los **videojuegos**, y las **expresiones artísticas** como el dibujo y la música.
 
-🔗 [Mi LinkedIn](https://www.linkedin.com/in/tomas-valdez)
-🌐 [Mi Portfolio](https://tusitio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visítame-blueviolet?style=for-the-badge)](https://tusitio.com)
 </div>
 
 ###
